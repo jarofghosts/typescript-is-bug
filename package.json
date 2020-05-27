@@ -1,0 +1,25 @@
+{
+  "name": "typescript-is-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "3.9.3",
+    "ttypescript": "1.5.10",
+    "typescript-is": "0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ttsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarofghosts/typescript-is-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/typescript-is-bug/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/typescript-is-bug#readme"
+}
